@@ -1,6 +1,6 @@
 use <sweep.scad>
-use <scad-utils/transformations.scad>
-use <scad-utils/shapes.scad>
+use <../scad-utils/transformations.scad>
+use <../scad-utils/shapes.scad>
 
 function func0(x)= 1;
 function func1(x) = 30 * sin(180 * x);

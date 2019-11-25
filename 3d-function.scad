@@ -1,4 +1,4 @@
-use <scad-utils/lists.scad>
+use <../scad-utils/lists.scad>
 
 size = 20;
 step = 0.5;
